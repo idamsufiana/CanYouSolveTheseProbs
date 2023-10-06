@@ -5,7 +5,7 @@ Favorite Problems
 ## Attendance Tracker
 
 Tracker log consist of 2 field : employeeId and timestamp  
-2 kind of shift employee   
+employees have 2 kind of shift time   
 task : define status per record log 
 
 ## Diplaying Boss Name in SQL
