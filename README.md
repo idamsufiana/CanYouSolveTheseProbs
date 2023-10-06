@@ -2,8 +2,13 @@
 Favorite Problems
 
 
-Attendance Tracker
+## Attendance Tracker
 
 Tracker log consist of 2 field : employeeId and timestamp  
 2 kind of shift employee   
 task : define status per record log 
+
+## Diplaying Boss Name in SQL
+
+Displaying Boss name in sql by manager id is common case 
+but how about diplaying boss name when there are only employee name , departemen and position in 1 table 
