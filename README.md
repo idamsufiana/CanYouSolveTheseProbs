@@ -11,5 +11,5 @@ task : define status per record log
 ## Diplaying Boss Name in SQL
 
 Displaying Boss name in sql by manager id is common case  
-but how about diplaying boss name when there are only employee name ,  
+but how about diplaying boss name when there are only employeeId ,  
 departemen and position in 1 table 
